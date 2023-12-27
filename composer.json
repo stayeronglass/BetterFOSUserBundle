@@ -1,5 +1,5 @@
 {
-    "name": "stayeronglass/BetterFOSUserBundle",
+    "name": "stayeronglass/better-fosuser-bundle",
     "type": "symfony-bundle",
     "description": "Better FOSUserBundle",
     "keywords": [
